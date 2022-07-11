@@ -8,5 +8,7 @@
 			"decimals": 18
 		}
 	}],
-	"chainId": 100
+	"chainId": 100,
+	"labels": ["enhancement"]
+
 }

@@ -3,7 +3,7 @@
 	"strategy": [{
 		"name": "erc20-balance-of",
 		"params": {
-			"address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
+			"address": "0xc60e38C6352875c051B481Cbe79Dd0383AdB7817",
 			"symbol": "GIV",
 			"decimals": 18
 		}

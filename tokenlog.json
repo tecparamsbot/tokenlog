@@ -3,8 +3,8 @@
 	"strategy": [{
 		"name": "erc20-balance-of",
 		"params": {
-			"address": "0xc4fbE68522ba81a28879763C3eE33e08b13c499E",
-			"symbol": "CSTK",
+			"address": "0x5dF8339c5E282ee48c0c7cE8A7d01a73D38B3B27",
+			"symbol": "TEC",
 			"decimals": 18
 		}
 	}],

@@ -1,5 +1,5 @@
 {
-	"method": "STANDARD",
+	"method": "QUADRATIC",
 	"strategy": [{
 		"name": "erc20-balance-of",
 		"params": {
